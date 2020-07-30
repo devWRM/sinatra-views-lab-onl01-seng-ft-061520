@@ -3,6 +3,9 @@ source "https://rubygems.org"
 
 # gem "rails"
 
+          # # Gives us our Rake tasks
+          # gem 'activerecord', '~> 5.2'
+
 gem 'sinatra'
 gem 'rake'
 gem 'thin'
